@@ -1,2 +1,2 @@
 [deploy]
-startCommand = "uvicorn app.main:app --reload"
+startCommand = "uvicorn app.main:app"
